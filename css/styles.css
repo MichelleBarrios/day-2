@@ -45,8 +45,8 @@ footer{
     background-color: pink;
   }
 }
-@media screen and (min-width : 375px) {
+@media screen and (min-width : 768px) {
   .header{
-    background-color: purple;
+    background-color: aqua;
   }
 }
