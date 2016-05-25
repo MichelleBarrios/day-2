@@ -39,3 +39,14 @@ footer{
   padding:30px;
   height: 100px;
   color: white;
+}
+@media screen and (min-width : 375px) {
+  .promo{
+    background-color: pink;
+  }
+}
+@media screen and (min-width : 375px) {
+  .header{
+    background-color: purple;
+  }
+}
